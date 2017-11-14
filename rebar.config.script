@@ -64,6 +64,7 @@ DepDescs = [
 {ibrowse,          "ibrowse",          {tag, "CouchDB-4.0.1"}},
 {jiffy,            "jiffy",            {tag, "CouchDB-0.14.11-2"}},
 {mochiweb,         "mochiweb",         {tag, "CouchDB-2.12.0-1"}},
+{dreyfus,          {url, "https://github.com/arturog/dreyfus.git"}, "master"},
 {meck,             "meck",             {tag, "0.8.8"}}
 
 ],

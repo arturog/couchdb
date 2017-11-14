@@ -38,6 +38,7 @@ src/couch/priv/couch_js/util.d
 src/couch/priv/icu_driver/couch_icu_driver.d
 src/mango/src/mango_cursor_text.nocompile
 src/docs/
+src/dreyfus/
 src/ets_lru/
 src/fauxton/
 src/folsom/
